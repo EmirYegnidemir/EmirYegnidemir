@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmirYegnidemir
+- 👋 Hi, I’m @Emir
 - 👀 I’m interested in learning how to code in different languages.
 - 🌱 I’m currently learning java!
 - 💞️ I’m looking to collaborate on (not capable yet!)
